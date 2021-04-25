@@ -17,12 +17,6 @@
 
 }
 
-#FM{
-	background-color: #dbca10;
-	font-size: 50px;
-	padding-right: 200px;
-}
-
 #third{
 clear: both;
 background-color: red;
@@ -84,7 +78,7 @@ margin-top: -100px;
 }
 
 #yellow {
-	clear: both;
+clear: both;
 	background-color: yellow;
 	font-size: 50px;
 }
